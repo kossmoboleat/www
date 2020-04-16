@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/misc.xml
+/modules.xml
+/vcs.xml
+/www_timbenke_de.iml
